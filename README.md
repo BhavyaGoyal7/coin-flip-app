@@ -35,7 +35,7 @@ FUTURE IMPROVEMENTS - Add coin flip animation - Add sound effects - Add
 percentage statistics - Add themes and color customization - Store toss
 history
 
-AUTHOR ## Bhavya Goyal
+## AUTHOR Bhavya Goyal
 
 If you like this project, consider giving it a star on GitHub.
 
