@@ -38,3 +38,5 @@ history
 AUTHOR Bhavya Goyal
 
 If you like this project, consider giving it a star on GitHub.
+
+<img width="507" height="572" alt="image" src="https://github.com/user-attachments/assets/e95b7988-421e-437f-bb79-a94353842c67" />
